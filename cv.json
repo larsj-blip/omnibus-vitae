@@ -1,0 +1,49 @@
+{
+    "name":"Lars Andreassen Jaatun",
+    "birtdate": "22.12.2000",
+    "contact":[
+        {
+            "type": "phone",
+            "value": "0047 99683019"
+        },
+        {
+            "type": "email",
+            "value": "lars@atilf.no"
+        }
+    ],
+    "experience":[
+        {
+            "title":"summer intern",
+            "organization":"SINTEF",
+            "time_period":"2022-2022"
+        },
+        {
+            "title":"student assistant (ING100)",
+            "organization":"UiS",
+            "time_period":"2021-2021"
+        }
+    ],
+    "education":[
+        {
+            "title":"studiespesialisering (forskerlinja)",
+            "organization":"Thora Storm VGS",
+            "time_period":"2016-2019"
+        },
+        {
+            "title":"bachelor i datateknologi",
+            "organization":"UiS",
+            "time_period":"2019-2022"
+        }
+    ],
+    "skills":[
+        {
+            "name":"language",
+            "value":"mostly fluent spoken french, passable written"
+        },
+        {  
+            "name":"programming languages",
+            "value":["go", "python", "vue.js", "java (android)"]
+        }
+    ]
+
+}
